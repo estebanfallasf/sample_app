@@ -7,7 +7,7 @@ describe RelationshipsController do
 
   before { sign_in user }
 
-  describe "creating a relationship with Ajax" do
+  describe "creating a relationship with Ajax / Esteban was here to add cucumber stuff" do
     
     it "should increment the Relationship count" do
       expect do
